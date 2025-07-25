@@ -18,6 +18,7 @@ AWS Learning resources:
 
 
 Azure based learning :
+https://learn.microsoft.com/en-us/training/browse/?subjects=artificial-intelligence%2Csecurity&resource_type=learning%20path
 
 
 
