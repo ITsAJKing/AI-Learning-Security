@@ -35,8 +35,9 @@ Advanced: Generative AI for Developers
 
 
 
-
-
+Course
+Introduction to Security in the World of AI
+https://www.cloudskillsboost.google/course_templates/1146
 
 View all Learning Paths from Google:
 https://www.cloudskillsboost.google/
